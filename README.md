@@ -1,3 +1,5 @@
+Video Bağlantısı: https://youtu.be/0LZKcCXk2jo
+
 # Masal Atlası
 
 **Masal Atlası**, geleneksel Türk masallarını dijital ortamda keşfetmeyi ve okumayı sağlayan interaktif bir web sitesi projesidir.
