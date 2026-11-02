@@ -1,5 +1,7 @@
 Video Bağlantısı: https://youtu.be/0LZKcCXk2jo
 
+(Youtube videoyu otomatik olarak düşük çözünürlükte açabilir, video ayarlarından video çözünürlüğü yükseltildiğinde bir sorun kalmayacaktır.)
+
 # Masal Atlası
 
 **Masal Atlası**, geleneksel Türk masallarını dijital ortamda keşfetmeyi ve okumayı sağlayan interaktif bir web sitesi projesidir.
